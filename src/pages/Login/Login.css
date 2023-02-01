@@ -1,0 +1,7 @@
+.wrapper{
+    height: 100vh;
+}
+
+body{
+    background-image: radial-gradient(at 20px 20px, rgb(154, 240, 154), rgb(16, 138, 138));
+}
