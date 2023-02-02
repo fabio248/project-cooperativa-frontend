@@ -24,7 +24,6 @@ const Login = () => {
 
     return(
         <div className="wrapper d-flex align-items-center justify-content-center w-100" >
-            
             <form className="shadow p-3 mb-5 bg-body-tertiary rounded w-25 p-3">
                 <center>
                     <h1>¡Bienvenido!</h1>
