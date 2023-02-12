@@ -2,16 +2,17 @@
     background-color: rgba(37, 35, 35, 0.651);
 }
 .navbar{
-    background-color: rgba(37, 35, 35, 0.651);
+    background-color: rgba(209, 198, 198, 0.651);
 }
 .nav-item{
     height: 100px;
-    padding-left: 40px;
 }
 .navbar-nav{
     padding-top: 40px;
-    padding-left: 40px;
+    
 }
-.container-fluid{
-
+.derecha{
+    padding-top: 70px;
+    padding-right: 40px;
+    
 }
