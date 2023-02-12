@@ -26,7 +26,7 @@ const Login = () => {
         <div className="contenedor">
             <Navbar></Navbar>
             <div className="wrapper d-flex align-items-center justify-content-center" >
-                <form className="shadow p-3 mb-5 bg-body-tertiary rounded w-50 p-3">
+                <form className="shadow p-3 mb-5 bg-body-tertiary rounded w-25 p-3">
                     <center>
                         <h1>¡Bienvenido!</h1>
                     </center>

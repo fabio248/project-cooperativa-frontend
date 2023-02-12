@@ -1,3 +1,17 @@
-.container{
-    background-image: radial-gradient(at 20px 20px, rgb(190, 231, 190), rgb(198, 241, 241));
+.bg-body-tertiary{
+    background-color: rgba(37, 35, 35, 0.651);
+}
+.navbar{
+    background-color: rgba(37, 35, 35, 0.651);
+}
+.nav-item{
+    height: 100px;
+    padding-left: 40px;
+}
+.navbar-nav{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.container-fluid{
+
 }

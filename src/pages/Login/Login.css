@@ -3,8 +3,9 @@
 }
 
 body{
-    background-image: radial-gradient(at 20px 20px, rgb(154, 240, 154), rgb(8, 87, 87));
+    background-image: radial-gradient(at 20px 20px, rgb(154, 240, 154), rgb(29, 211, 211));
 }
 form{
+    
     background-image: radial-gradient(at 20px 20px, rgb(190, 231, 190), rgb(198, 241, 241));
 }
